@@ -1,0 +1,15 @@
+/Users/grayson/Documents/Data Strutures/GameInventory/GameInventory/bin/Debug/net6.0/GameInventory
+/Users/grayson/Documents/Data Strutures/GameInventory/GameInventory/bin/Debug/net6.0/GameInventory.deps.json
+/Users/grayson/Documents/Data Strutures/GameInventory/GameInventory/bin/Debug/net6.0/GameInventory.runtimeconfig.json
+/Users/grayson/Documents/Data Strutures/GameInventory/GameInventory/bin/Debug/net6.0/GameInventory.dll
+/Users/grayson/Documents/Data Strutures/GameInventory/GameInventory/bin/Debug/net6.0/GameInventory.pdb
+/Users/grayson/Documents/Data Strutures/GameInventory/GameInventory/obj/Debug/net6.0/GameInventory.csproj.AssemblyReference.cache
+/Users/grayson/Documents/Data Strutures/GameInventory/GameInventory/obj/Debug/net6.0/GameInventory.GeneratedMSBuildEditorConfig.editorconfig
+/Users/grayson/Documents/Data Strutures/GameInventory/GameInventory/obj/Debug/net6.0/GameInventory.AssemblyInfoInputs.cache
+/Users/grayson/Documents/Data Strutures/GameInventory/GameInventory/obj/Debug/net6.0/GameInventory.AssemblyInfo.cs
+/Users/grayson/Documents/Data Strutures/GameInventory/GameInventory/obj/Debug/net6.0/GameInventory.csproj.CoreCompileInputs.cache
+/Users/grayson/Documents/Data Strutures/GameInventory/GameInventory/obj/Debug/net6.0/GameInventory.dll
+/Users/grayson/Documents/Data Strutures/GameInventory/GameInventory/obj/Debug/net6.0/refint/GameInventory.dll
+/Users/grayson/Documents/Data Strutures/GameInventory/GameInventory/obj/Debug/net6.0/GameInventory.pdb
+/Users/grayson/Documents/Data Strutures/GameInventory/GameInventory/obj/Debug/net6.0/GameInventory.genruntimeconfig.cache
+/Users/grayson/Documents/Data Strutures/GameInventory/GameInventory/obj/Debug/net6.0/ref/GameInventory.dll
